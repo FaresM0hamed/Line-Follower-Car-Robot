@@ -27,7 +27,7 @@ The Line-Follower Car Robot uses infrared (IR) sensors to detect and follow a bl
 ## Creators
 
 - Fares Mohamed Elshahat Mahmoud
-- Amro Mohy Mohamed Yousef
+- Amr Mohy Mohamed Yousef
 - Asmaa Mohamed Hamed Ibrahim
 - Ashrakat Samaha Elsayed Goda
 - Asmaa Mohamed Mohamed Elsayed
